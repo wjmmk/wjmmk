@@ -1,6 +1,6 @@
-### Hi there 👋, Mi Nombre Es William
+### Hi there 👋, Mi Nombre Es William Mosquera
 #### Soy un desarrollador Web FullStack ~ JavaScript
-![Soy un desarrollador Web FullStack ~ JavaScript](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Soy un desarrollador Web FullStack ~ JavaScript](https://github.com/wjmmk/VirtualScrollAngular10/blob/master/src/assets/img/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
 
 Soy un tipo al que le gusta el desarrollo de software, especialmente aplicaciones Web y Móviles. Y siempre es curioso saber mas al respecto de estas tecnologías.
 
