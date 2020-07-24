@@ -4,7 +4,7 @@
 
 Soy un tipo al que le gusta el desarrollo de software, especialmente desarrollar aplicaciones Web y algo de Móviles. Y siempre vivo curioso por conocer mas al respecto de estas tecnologías.
 
-### Habilidades Tecnicas...
+### 💼🧑🏽‍💼 Habilidades Tecnicas...
 
 |  FrontEnd |  BackEnd |
 |-----------|----------|
@@ -16,7 +16,7 @@ Soy un tipo al que le gusta el desarrollo de software, especialmente desarrollar
 
 Entre otras habilidades concerniente al perfil FullStack Web ~ JavaScript.
 
-### Algunas Curiosidades...
+### 🧐👀🤔 Algunas Curiosidades...
 
 - 🔭 Actualmente estoy subiendo proyectos en este Repositorio. 
 - 🌱 Que estoy aprendiendo: Sigo profundizando en lo referente Código Limpio y buenas practicas a la hora de desarrollar Software.
