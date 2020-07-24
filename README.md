@@ -4,11 +4,20 @@
 
 Soy un tipo al que le gusta el desarrollo de software, especialmente desarrollar aplicaciones Web y algo de Móviles. Y siempre vivo curioso por conocer mas al respecto de estas tecnologías.
 
-Skills: ANGULAR / VUE JS / JS / HTML / CSS ~ NodeJS / NestJS / PostgreSQL / MySQL / MongoDB
+### Habilidades Tecnicas...
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Profundizando en Código Limpio y buenas practicas a la hora de desarrollar 
-- 👯 I’m looking to collaborate on En proyectos Webs y Móviles...  
-- 📫 How to reach me: wjmmk3@gmail.com 
+|  FrontEnd |  BackEnd |
+|-----------|----------|
+| Angular   | NodeJS   |
+| Vue-JS    | NestJS   |
+| JS        |PostgreSQL| 
+| HTML      | MySQL    |
+| CSS       | MongoDB  |
+
+
+- 🔭 Actualmente estoy subiendo proyectos en este Repositorio. 
+- 🌱 Que estoy aprendiendo: Sigo profundizando en lo referente Código Limpio y buenas practicas a la hora de desarrollar Software.
+- 👯 Estoy buscando colaborar: En proyectos Webs y Móviles...  
+- 📫 Me pueden encontrar: wjmmk3@gmail.com 
 
 
