@@ -1,8 +1,8 @@
-### Que mas People 👋, Mi Nombre Es William Mosquera ~ WjmmK
+### Qué más People 👋, Mi Nombre Es William Mosquera ~ WjmmK
 #### Soy Un Desarrollador Web FullStack ~ JavaScript
 ![Soy un desarrollador Web FullStack ~ JavaScript](https://github.com/wjmmk/VirtualScrollAngular10/blob/master/src/assets/img/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
 
-Soy un tipo al que le gusta el desarrollo de software, especialmente desarrollar aplicaciones Web y algo de Móviles. Y siempre vivo curioso por conocer mas al respecto de estas tecnologías.
+Me considero una persona a la que le gusta el desarrollo de software, especialmente desarrollar aplicaciones Web y algo de Móviles. Y siempre vivo curioso por conocer más al respecto de estas tecnologías.
 
 ### 💼🧑🏽‍💼 HABILIDADES TECNICAS...
 
