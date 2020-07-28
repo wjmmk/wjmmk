@@ -1,4 +1,4 @@
-### Que tal People 👋, Mi Nombre Es William Mosquera ~ WjmmK
+### Que mas People 👋, Mi Nombre Es William Mosquera ~ WjmmK
 #### Soy Un Desarrollador Web FullStack ~ JavaScript
 ![Soy un desarrollador Web FullStack ~ JavaScript](https://github.com/wjmmk/VirtualScrollAngular10/blob/master/src/assets/img/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
 
