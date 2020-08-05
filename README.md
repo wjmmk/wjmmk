@@ -1,10 +1,10 @@
-### Qué más People 👋, Mi Nombre Es William Mosquera ~ WjmmK
+### Hi People 👋, greets you William Mosquera ~ WjmmK
 #### Soy Un Desarrollador Web FullStack ~ JavaScript
-![Soy un desarrollador Web FullStack ~ JavaScript](https://github.com/wjmmk/VirtualScrollAngular10/blob/master/src/assets/img/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
+![Software Developer ~ FullStack JavaScript](https://github.com/wjmmk/VirtualScrollAngular10/blob/master/src/assets/img/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
 
-Me considero una persona a la que le gusta el desarrollo de software, especialmente desarrollar aplicaciones Web y algo de Móviles. Y siempre vivo curioso por conocer más al respecto de estas tecnologías.
+Who likes software development, especially developing Web applications and some Mobile. And I always live curious to know more about these technologies.
 
-### 💼🧑🏽‍💼 HABILIDADES TECNICAS...
+### 💼🧑🏽‍💼 TECHNICAL SKILLS...
 
 |  FrontEnd |  BackEnd |
 |-----------|----------|
@@ -14,13 +14,13 @@ Me considero una persona a la que le gusta el desarrollo de software, especialme
 | HTML      | MySQL    |
 | CSS       | MongoDB  |
 
-Entre otras habilidades concernientes al perfil FullStack Web ~ JavaScript.
+Among other skills concerning the profile FullStack Developer Web ~ JavaScript.
 
-### 🧐👀🤔 ALGUNAS CURIOSIDADES...
+### 🧐👀🤔 SOME CURIOSITIES...
 
-- 🔭 Actualmente estoy subiendo proyectos en este Repositorio. 
-- 🌱 Que estoy aprendiendo: Sigo profundizando en lo referente Código Limpio y buenas practicas a la hora de desarrollar Software.
-- 👯 Estoy buscando colaborar: En proyectos Webs y Móviles...  
-- 📫 Me pueden encontrar: wjmmk3@gmail.com 
+- 🔭 I am currently uploading projects in this Repository. 
+- 🌱 What I'm learning: I keep going deeper into the Clean Code and good practices when developing Software.
+- 👯 I am looking to collaborate: On Web and Mobile projects.  
+- 📫 Can find me: wjmmk3@gmail.com, https://www.linkedin.com/in/william~mosquera/
 
 
