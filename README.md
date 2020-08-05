@@ -1,5 +1,5 @@
 ### Hi People 👋, greets you William Mosquera ~ WjmmK
-#### Soy Un Desarrollador Web FullStack ~ JavaScript
+#### Software Developer ~ FullStack JavaScript
 ![Software Developer ~ FullStack JavaScript](https://github.com/wjmmk/VirtualScrollAngular10/blob/master/src/assets/img/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
 
 Who likes software development, especially developing Web applications and some Mobile. And I always live curious to know more about these technologies.
