@@ -6,7 +6,7 @@ Who likes software development, especially developing Web applications and some 
 
 ### 💼🧑🏽‍💼 TECHNICAL SKILLS...
 
-|  FrontEnd |  BackEnd |
+| <span style="color:red">FrontEnd</span>  |  <span style="color:red">BackEnd</span> |
 |-----------|----------|
 | Angular   | NodeJS   |
 | ReactJS   | Docker   |
