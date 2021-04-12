@@ -25,3 +25,4 @@ Among other skills concerning the profile FullStack Developer Web ~ JavaScript.
 - 📫 Can find me: wjmmk3@gmail.com, https://www.linkedin.com/in/william~mosquera/
 
 
+<span style="color:blue">some *This is Blue italic.* text</span>
