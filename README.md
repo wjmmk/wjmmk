@@ -6,7 +6,7 @@ Who likes software development, especially developing Web applications and some 
 
 ### 💼🧑🏽‍💼 TECHNICAL SKILLS...
 
-| <span style="color:red">FrontEnd</span>  |  <span style="color:red">BackEnd</span> |
+| FrontEnd  |  BackEnd |
 |-----------|----------|
 | Angular   | NodeJS   |
 | ReactJS   | Docker   |
@@ -25,4 +25,3 @@ Among other skills concerning the profile FullStack Developer Web ~ JavaScript.
 - 📫 Can find me: wjmmk3@gmail.com, https://www.linkedin.com/in/william~mosquera/
 
 
-<span style="color:blue">some *This is Blue italic.* text</span>
