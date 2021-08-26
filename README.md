@@ -6,13 +6,13 @@ Who likes software development, especially developing Web applications and some 
 
 ### 💼🧑🏽‍💼 TECHNICAL SKILLS...
 
-| FrontEnd  |  BackEnd |
-|-----------|----------|
-| React-JS  | Node-JS  |
-| Redux     | Docker   |
-| Angular   | Nest-JS  |
-| JavaScript|PostgreSQL| 
-| CSS       | MongoDB  |
+                                                    | FrontEnd  |  BackEnd |
+                                                    |-----------|----------|
+                                                    | React-JS  | Node-JS  |
+                                                    | Redux     | Docker   |
+                                                    | Angular   | Nest-JS  |
+                                                    | JavaScript|PostgreSQL| 
+                                                    | CSS       | MongoDB  |
 
 Among other skills concerning the profile FullStack Developer Web ~ JavaScript.
 
