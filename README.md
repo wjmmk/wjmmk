@@ -8,9 +8,9 @@ Who likes software development, especially developing Web applications and some 
 
 | FrontEnd  |  BackEnd |
 |-----------|----------|
-| ReactJS   | NodeJS   |
+| React-JS  | Node-JS  |
 | Redux     | Docker   |
-| Angular   | NestJS   |
+| Angular   | Nest-JS  |
 | JavaScript|PostgreSQL| 
 | CSS       | MongoDB  |
 
