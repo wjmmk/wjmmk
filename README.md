@@ -8,11 +8,10 @@ Who likes software development, especially developing Web applications and some 
 
 | FrontEnd  |  BackEnd |
 |-----------|----------|
-| Angular   | NodeJS   |
-| ReactJS   | Docker   |
-| Vue-JS    | NestJS   |
-| JS        |PostgreSQL| 
-| HTML      | MySQL    |
+| ReactJS   | NodeJS   |
+| Redux     | Docker   |
+| Angular   | NestJS   |
+| JavaScript|PostgreSQL| 
 | CSS       | MongoDB  |
 
 Among other skills concerning the profile FullStack Developer Web ~ JavaScript.
