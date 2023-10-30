@@ -1,5 +1,5 @@
 ### Hi People 👋, greets you William Mosquera ~ WjmmK
-#### Full Stack ~ Software Developer ~ JavaScript
+#### Software Developer ~ JavaScript
 ![Software Developer ~ FullStack JavaScript](https://github.com/wjmmk/First-Node.js-Web/blob/master/1-OF0xEMkWBv-69zvmNs6RDQ.gif)
 
 Who likes software development, especially developing Web applications and some Mobile. And I always live curious to know more about these technologies.
