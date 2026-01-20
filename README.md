@@ -30,7 +30,7 @@ Who likes software development, especially developing Web applications and some 
       </table>
     </td>
     <td style="border: none; vertical-align: middle; text-align: center; padding-left: 20px;">
-      <img src="https://skillicons.dev/icons?i=react,redux,angular,js,css,tailwind,astro,flutter,jquery,nodejs,docker,nestjs,postgres,mongodb,aws,graphql,ai&perline=9" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=react,redux,angular,js,css,tailwind,astro,flutter,jquery,nodejs,docker,nestjs,postgres,mongodb,aws,py,graphql,ai&perline=4" alt="My Skills" />
     </td>
   </tr>
 </table>
