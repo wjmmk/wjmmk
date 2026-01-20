@@ -4,13 +4,39 @@
 
 Who likes software development, especially developing Web applications and some Mobile. And I always live curious to know more about these technologies.
 
-### 💼🧑🏽‍💼 TECHNICAL SKILLS...
-
-  ### 💼 👨🏽‍💻 💼 TECHNICAL SKILLS...
+### 💼 👨🏽‍💻 💼 TECHNICAL SKILLS...
 
 | Skills List | Tech Icons |
 | :--- | :--- |
 | <table><tr><th>FrontEnd</th><th>BackEnd</th></tr><tr><td>React-JS</td><td>Node-JS</td></tr><tr><td>Redux</td><td>Docker</td></tr><tr><td>Angular</td><td>Nest-JS</td></tr><tr><td>JavaScript</td><td>PostgreSQL</td></tr><tr><td>CSS</td><td>MongoDB</td></tr></table> | <img src="https://skillicons.dev/icons?i=react,redux,angular,js,css,nodejs,docker,nestjs,postgres,mongodb&perline=5" /> |
+
+
+### 💼 👨🏽‍💻 💼 TECHNICAL SKILLS...
+
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: middle;">
+      <table>
+        <thead>
+          <tr>
+            <th>FrontEnd</th>
+            <th>BackEnd</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>React-JS</td><td>Node-JS</td></tr>
+          <tr><td>Redux</td><td>Docker</td></tr>
+          <tr><td>Angular</td><td>Nest-JS</td></tr>
+          <tr><td>JavaScript</td><td>PostgreSQL</td></tr>
+          <tr><td>CSS</td><td>MongoDB</td></tr>
+        </tbody>
+      </table>
+    </td>
+    <td style="border: none; vertical-align: middle; text-align: center; padding-left: 20px;">
+      <img src="https://skillicons.dev/icons?i=react,redux,angular,js,css,nodejs,docker,nestjs,postgres,mongodb&perline=4" alt="My Skills" />
+    </td>
+  </tr>
+</table>
 
 Among other skills concerning the profile FullStack Developer Web ~ JavaScript.
 
