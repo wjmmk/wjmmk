@@ -29,8 +29,11 @@ Who likes software development, especially developing Web applications and some 
         </tbody>
       </table>
     </td>
-    <td style="border: none; vertical-align: middle; text-align: center; padding-left: 20px;"> 
-      <img src="https://skillicons.dev/iconsi=react,redux,angular,js,css,tailwind,astro,flutter,jquery,nodejs,docker,nestjs,postgres,mongodb,aws,py,graphql,ai,fastapi,postman&perline=4" alt="My Skills" />
+   <td align="center">
+      <img 
+        src="https://skillicons.dev/icons?i=react,redux,angular,js,css,tailwind,astro,flutter,jquery,nodejs,docker,nestjs,postgres,mongodb,aws,py,graphql,ai,fastapi,postman&perline=4" 
+        alt="Tech Stack"
+      />
     </td>
   </tr>
 </table>
